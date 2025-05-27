@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <home>
+        <profilephoto>/images/pic.jpg</profilephoto>
+
+        <name>Lyssa Mae E. </name>
+        <tagline>Life is short</tagline>
+        <location>Tubod Silago So, Leyte</location>
+        <social>
+            <facebook>https://www.facebook.com/lyssamae.manatad.94</facebook>
+            <instagram>https://www.instagram.com/lyssamaemanatad</instagram>
+            
+        </social>
+    </home>
+    <projects>
+        <project>
+            <title>Project One</title>
+            <description>Description of project one.</description>
+            <technologies>Bootstrap, CSS, JavaScript</technologies>
+            <link>https://github.com/yourprojectone</link>
+            <image>/images/profile.jpg</image>
+        </project>
+        <!-- Add more projects as needed -->
+    </projects>
+    <skills>
+        <technical>PHP, HTML, CSS</technical>
+        <talents>Singing, Dancing, and running</talents>
+    </skills>
+    <organizations>
+        <organization>
+            <name>Youth Camp</name>
+            <role>Member</role>
+            <years>2019-2023</years>
+        </organization>
+        <!-- Add more organizations as needed -->
+    </organizations>
+    <services>
+        <service>
+            <name>Sample</name>
+            <description>Creating responsive and modern websites.</description>
+        </service>
+        <!-- Add more services as needed -->
+    </services>
+    <testimonials>
+        <testimonial>
+            <name>Stephen </name>
+            <relationship>Peer</relationship>
+            <message>"An amazing web developer!"</message>
+        </testimonial>
+        <!-- Add more testimonials as needed -->
+    </testimonials>
+    <contact>
+        <email>your.email:lyssamaemanatad3@gmail.com</email>
+        <phone>09125957601</phone>
+    </contact>
+</portfolio>
